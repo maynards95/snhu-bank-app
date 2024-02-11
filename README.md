@@ -1,4 +1,5 @@
-# bankApp
+# Bank Application
+
 Summarize the project and what problem it was solving.
   
 	This project allows a user to determine their EOY for a given investment. This already has all calculations done so all the user needs to input is the interest, monthly deposit amount, number of years, and initial deposit. This simplifies the process for the user.
